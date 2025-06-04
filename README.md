@@ -16,9 +16,7 @@
 ---
 
 ## 📚 Proyecto actual
-
-🔸 **🛒 E-commerce Full Stack**
-
+*🛒 E-commerce Full Stack**
 * 🤖 Automatización de pruebas con Playwright y Cypress
 * ⚙️ Backend con Node.js y PostgreSQL
 * 🔁 CI/CD con GitHub Actions (en progreso)
