@@ -1,6 +1,6 @@
 # ¡Hola! Soy Ruth
 
-🎓 Estudiante de Ingeniería en Informática | 🚀 En proceso de mejora continua como QA Automatizadora, fortaleciendo habilidades en desarrollo full stack, automatización de pruebas, CI/CD y cultura DevOps. 📚 Completando un diplomado en Programación Full Stack y aprendiendo herramientas como Selenium, Cypress, Playwright, JMeter, Docker y GitHub Actions, bajo metodologías ágiles.
+ En proceso de mejora continua como QA Automatizador, fortaleciendo habilidades en desarrollo full stack, automatización de pruebas, CI/CD y cultura DevOps. 📚 Completando un diplomado en Programación Full Stack y en constante aprendizaje de herramientas como Selenium, Cypress, Playwright, JMeter, Docker y GitHub Actions, bajo metodologías ágiles.
 
 ---
 
